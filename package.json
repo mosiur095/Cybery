@@ -1,0 +1,32 @@
+{
+  "name": "studio-new-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "firebase": "^8.2.7",
+    "framer-motion": "^3.2.1",
+    "next": "^10.0.5",
+    "next-absolute-url": "^1.2.2",
+    "raw-loader": "^4.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-gtm-module": "^2.0.11",
+    "react-icons": "^4.1.0",
+    "react-markdown": "^5.0.3",
+    "react-multi-carousel": "^2.6.1",
+    "remark-gfm": "^1.0.0",
+    "styled-components": "^5.2.1",
+    "swr": "^0.4.1",
+    "unfetch": "^4.2.0",
+    "use-media-query-hook": "^0.3.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.12.0"
+  }
+}
